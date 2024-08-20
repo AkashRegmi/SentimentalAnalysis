@@ -20,9 +20,3 @@ This project performs sentiment analysis on text data using various machine lear
 - nltk
 - tkinter
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/sentiment-analysis.git
-   cd sentiment-analysis
